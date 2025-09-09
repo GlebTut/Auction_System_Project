@@ -1,0 +1,21 @@
+# Compiled class files
+*.class
+build/
+target/
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Database credentials (ВАЖНО!)
+src/com/Database/DBConnector.java
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
